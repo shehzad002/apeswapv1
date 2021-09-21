@@ -1,0 +1,13 @@
+body {
+  background-image: url(./assets/img/bg.png);
+  margin: 0;
+  font-family: cursive;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
